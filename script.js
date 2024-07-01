@@ -15,7 +15,7 @@ btn.addEventListener('click',()=>{
     img.setAttribute("id","delete_btn")
     input.setAttribute("id","inputbox")
     input.setAttribute("contenteditable","true")
-    img.src="images/delet.png"
+    img.src="delet.png"
     creat_note.appendChild(input).appendChild(img)
 })
  
