@@ -82,7 +82,7 @@ button img{
         left:3%;
         top:40px;
         height: 200px;
-        margin: 0;
+        margin: 7px;
         margin-bottom: 10px;
     }
     #creat_btn{
@@ -102,7 +102,7 @@ button img{
         left:3%;
         top:40px;
         height: 20;
-        margin: 0;
+        margin: 7px;
     }
     h1{
         top:15px;
@@ -114,7 +114,7 @@ button img{
         left:3%;
         top:40px;
         height: 20;
-        margin: 0;
+        margin: 7px;
     }
     h1{
         top:15px;
@@ -126,7 +126,7 @@ button img{
         left:6%;
         top:50px;
         height: 20;
-        margin: 0;
+        margin: 7px;
         display: flex;
         flex-wrap: wrap;
     }
@@ -147,7 +147,7 @@ button img{
         left:7%;
         top:50px;
         height: 20;
-        margin: 0;
+        margin: 7px;
     }
     #creat_btn{
         top:35px;
@@ -166,7 +166,7 @@ button img{
         left:6%;
         top:50px;
         height: 20;
-        margin: 0;
+        margin: 7px;
         display: flex;
         flex-wrap: wrap;
     }
